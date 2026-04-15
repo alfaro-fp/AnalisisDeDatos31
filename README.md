@@ -1,7 +1,8 @@
 # AnalisisDeDatos31
 Repositorio Para la sesión 3 de DataPath
 
-Comandos Git
+Comandos Git:
+
     Clonar repo: git clone ruta_repositorio
     Actualizaciones de mis cambios: git status
     Agregar cambios: git add . (indicar archivos modififcados)
